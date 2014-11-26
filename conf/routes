@@ -1,0 +1,19 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET           /                    controllers.AppController.index
+GET           /status              controllers.AppController.status
+GET           /workflow            controllers.AppController.showWorkflows
+POST          /workflow            controllers.AppController.addWorkflow
+DELETE        /workflow/:id        controllers.AppController.removeWorkflow(id: String)
+GET           /jobs                controllers.AppController.showAllJobs
+GET           /run/:id             controllers.AppController.runJob(id: String)
+GET           /stop/:id            controllers.AppController.stopJob(id: String)
+GET           /queue/clear         controllers.AppController.clearQueue
+GET           /test                controllers.AppController.test
+GET           /ttt                controllers.AppController.ttt
+
+# Map static resources from the /public folder to the /assets URL path
+GET           /assets/*file        controllers.Assets.at(path="/public", file)

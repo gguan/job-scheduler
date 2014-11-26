@@ -1,0 +1,48 @@
+2014-11-04 02:15:27,992 - [INFO] - from play in pool-4-thread-5 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2014-11-04 02:15:51,699 - [INFO] - from application in play-internal-execution-context-1 
+Application has started!!!!
+
+2014-11-04 02:15:51,705 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-11-04 02:15:52,029 - [INFO] - from play in New I/O worker #1 
+Starting application default Akka system.
+
+2014-11-04 02:16:47,842 - [INFO] - from play in play-internal-execution-context-1 
+Shutdown application default Akka system.
+
+2014-11-04 02:16:48,067 - [INFO] - from application in play-internal-execution-context-1 
+Application has started!!!!
+
+2014-11-04 02:16:48,067 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-11-04 02:16:48,087 - [INFO] - from play in New I/O worker #4 
+Starting application default Akka system.
+
+2014-11-04 02:17:43,628 - [INFO] - from play in play-internal-execution-context-2 
+Shutdown application default Akka system.
+
+2014-11-04 02:17:43,710 - [INFO] - from application in play-internal-execution-context-2 
+Application has started!!!!
+
+2014-11-04 02:17:43,710 - [INFO] - from play in play-internal-execution-context-2 
+Application started (Dev)
+
+2014-11-04 02:17:43,726 - [INFO] - from play in New I/O worker #4 
+Starting application default Akka system.
+
+2014-11-04 02:18:13,328 - [INFO] - from play in play-internal-execution-context-2 
+Shutdown application default Akka system.
+
+2014-11-04 02:18:13,404 - [INFO] - from application in play-internal-execution-context-2 
+Application has started!!!!
+
+2014-11-04 02:18:13,404 - [INFO] - from play in play-internal-execution-context-2 
+Application started (Dev)
+
+2014-11-04 02:18:13,420 - [INFO] - from play in New I/O worker #7 
+Starting application default Akka system.
+
